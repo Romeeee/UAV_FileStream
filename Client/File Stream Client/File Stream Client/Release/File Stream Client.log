@@ -1,0 +1,17 @@
+﻿Build started 2015-02-14 1:20:46 PM.
+     1>Project "C:\Users\Oliver Wu\Google Drive\University Documents\UTAT UAV\Communications\File Stream 1.92\Client\File Stream Client\File Stream Client\File Stream Client.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Client.cpp StreamClient.cpp
+         Client.cpp
+         StreamClient.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Oliver Wu\Google Drive\University Documents\UTAT UAV\Communications\File Stream 1.92\Client\File Stream Client\Release\File Stream Client.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Oliver Wu\Google Drive\University Documents\UTAT UAV\Communications\File Stream 1.92\Client\File Stream Client\Release\File Stream Client.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Oliver Wu\Google Drive\University Documents\UTAT UAV\Communications\File Stream 1.92\Client\File Stream Client\Release\File Stream Client.lib" /MACHINE:X86 /SAFESEH Release\Client.obj
+         Release\StreamClient.obj
+         Generating code
+         Finished generating code
+         File Stream Client.vcxproj -> C:\Users\Oliver Wu\Google Drive\University Documents\UTAT UAV\Communications\File Stream 1.92\Client\File Stream Client\Release\File Stream Client.exe
+     1>Done Building Project "C:\Users\Oliver Wu\Google Drive\University Documents\UTAT UAV\Communications\File Stream 1.92\Client\File Stream Client\File Stream Client\File Stream Client.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:07.31
